@@ -7,4 +7,6 @@ class MailerModule {
     public function getMailCredentials(){
         return $this->__mailuser . " / " . $this->__mailpass;
     }
+
+    public function doNothing(){}
 }

@@ -1,0 +1,11 @@
+{
+    "name":"thkillert/sandbox",
+    "description": "SandboxProject",
+    "authors" : [
+        {
+            "name":"TK",
+            "email":"killert@weitkamper.de"
+        }
+    ],
+    "type" : "sandbox"
+}

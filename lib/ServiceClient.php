@@ -1,7 +1,7 @@
 <?php
 
 class ServiceClient {
-
+    // Eine Änderung im Testbranch
     private $_client;
     private $_repository;
     

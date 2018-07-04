@@ -40,7 +40,7 @@ class ServiceClient {
         curl_setopt($this->_client, $pOption, $pValue);
         return $this;
     }
-
+    // Weitere Änderung
     /**
      * multiple arguments allowed
      * @param mixed ...$pArguments   one argument: fully-qualified repository identifiert<br />two arguments :owner and repository name

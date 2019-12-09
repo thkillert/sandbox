@@ -9,4 +9,5 @@ class MailerModule {
     }
 
     public function doNothing(){}
+
 }
